@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+talcheck.py
+data/data.json
+talcheck.egg-info/PKG-INFO
+talcheck.egg-info/SOURCES.txt
+talcheck.egg-info/dependency_links.txt
+talcheck.egg-info/requires.txt
+talcheck.egg-info/top_level.txt
